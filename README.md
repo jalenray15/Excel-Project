@@ -1,4 +1,4 @@
-# Project Background
+# 📌 Project Background
 
 This project showcase my skills as a **Data Analyst** working at a fictional healthcare company named "HealthFirst Analytics", which operates in the Healthcare Analytics industry. Founded in 2019, the company specializes in providing data-driven insights to improve patient outcomes, optimize resource allocation, and enhance hospital operational efficiency.
 
@@ -11,14 +11,14 @@ This project showcase my skills as a **Data Analyst** working at a fictional hea
 - Patient outcome monitoring
 - Operational efficiency.
 
-**Key Metrics:** Patient demographics, medical conditions, test results, high-risk patient identification, and admission types.
+** Key Metrics:** Patient demographics, medical conditions, test results, high-risk patient identification, and admission types.
 
 The goal of this project is to analyze patient outcome data to uncover trends in abnormal test results, identify high-risk patients, and provide actionable insights for healthcare providers.
 
 
 
 
-# Insights and Recommendations
+#🔎 Insights and Recommendations
 
 **Key Areas Analyzed:**
 
@@ -28,7 +28,7 @@ The goal of this project is to analyze patient outcome data to uncover trends in
 4. High-Risk Patient Identification
 
    
-# Data Structure 
+# 🗂 Data Structure 
 
 **Main Dataset (Patient Records):**
 
@@ -47,7 +47,7 @@ The goal of this project is to analyze patient outcome data to uncover trends in
 - Risk Identification: High-Risk Flag based on abnormal test results and age 
 
 
-# Executive Summary
+# 📢 Executive Summary
 
 **Overview of Findings:**
 
@@ -68,7 +68,7 @@ The goal of this project is to analyze patient outcome data to uncover trends in
 
 
 
-# Insights Deep Dive
+# 📊 Insights Deep Dive
 
 1. **Patient Demographics & Medical Conditions**
    
@@ -119,7 +119,7 @@ The goal of this project is to analyze patient outcome data to uncover trends in
 
 
 
-# Recommendations
+# 📢  Recommendations
 
 **1. Enhanced Monitoring for High-Risk Age Groups (81+):**
 
@@ -139,7 +139,7 @@ The goal of this project is to analyze patient outcome data to uncover trends in
   - Investigate the correlation between blood types (B+ and O+) and abnormal test results for potential genetic factors.
 
 
-# Tools Used
+# 🔧 Tools Used
 
 **Microsoft Excel:** Data cleaning, transformation, pivot tables, and dashboard creation.
 
